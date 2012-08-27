@@ -63,7 +63,7 @@ ro.ril.transmitpower=true
 #
 ro.telephony.call_ring.multiple=0
 
-ro.sf.lcd_density=320
+ro.sf.lcd_density=241
 
 #system prop for switching gps driver to qmi
 persist.gps.qmienabled=true
